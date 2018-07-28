@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "importHelpers": true,
+    "strict": true,
+    "sourceMap": true,
+    "declaration": true,
+    "declarationDir": "declarations",
+    "baseUrl": ".",
+    "lib": [
+      "es2016"
+    ]
+  },
+  "include": [
+    "./src/**/*.ts",
+    "./test/**/*.ts"
+  ]
+}

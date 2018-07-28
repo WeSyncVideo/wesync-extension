@@ -1,0 +1,17 @@
+{
+  "extends": "tslint-config-standard",
+  "rules": {
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "always",
+        "singleline": "never"
+      }
+    ],
+    "semicolon": [
+      true,
+      "never"
+    ],
+    "one-variable-per-declaration": false
+  }
+}
