@@ -1,0 +1,6 @@
+[submodule "src/core"]
+	path = src/core
+	url = git@github.com:WeSyncVideo/ext-core.git
+[submodule "src/actions/common"]
+	path = src/actions/common
+	url = git@github.com:WeSyncVideo/ext-actions-common.git
