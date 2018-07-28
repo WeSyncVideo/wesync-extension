@@ -1,0 +1,12 @@
+{
+  "name": "wesync-extension-chrome",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "git@github.com:WeSyncVideo/wesync-extension-chrome.git",
+  "author": "Brad <bradpf@outlook.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "ext-link": "^0.0.2"
+  }
+}
